@@ -1,4 +1,4 @@
-# Hi there! <img src="https://gist.github.com/musama619/eb3b00f5a85880bfaa7416d7916d61c5/raw/a9786f37062f2d0ed2dc724823aa66eed8ce883f/hi.gif" width="70" />
+# Hi there! <img src="https://raw.githubusercontent.com/musama619/eb3b00f5a85880bfaa7416d7916d61c5/raw/a9786f37062f2d0ed2dc724823aa66eed8ce883f/hi.gif" width="50" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marouan-eerachdi-b40842197/" target="_blank">
@@ -7,34 +7,37 @@
 </p>
 
 <p align="center">
-  <img src="http://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="300" style="display:none;" /> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600" />
 </p>
 
 ---
 
-### About Me:
-- 🎓 Academic: Full Stack Development Student at ISTA Ouarzazate.
-- 🚀 Professional: 5+ Years SEO Specialist & Digital Entrepreneur.
-- 📈 Digital Growth: Managing digital assets with over 10k+ monthly organic visitors.
-- 🛠 Expertise: Cloud Infrastructure, Web Automation, and scaling digital platforms.
-- 🎯 Current Focus: Becoming a leader in Programmatic SEO where code meets search dominance.
+### 👤 About Me:
+- 🎓 **Academic:** Full Stack Development Student at ISTA Ouarzazate.
+- 🚀 **Professional:** 5+ Years SEO Specialist & Digital Entrepreneur.
+- 📈 **Digital Growth:** Managing digital assets with over 10k+ monthly organic visitors.
+- 🛠 **Expertise:** Cloud Infrastructure, Web Automation, and scaling digital platforms.
+- 🎯 **Current Focus:** Becoming a leader in Programmatic SEO where code meets search dominance.
 
 ---
 
 ### 🏗 Major Project in Progress: "Full-Stack SEO Engine"
-> Focus: Building a high-performance automated content machine.
+> **Focus:** Building a high-performance automated content machine.
 
-* Progress: 80% Completed
-* Status: ████████████████████████░░░░░░ 80%
+* **Progress:** 80% Completed
+* **Status:** ████████████████████████░░░░░░ 80%
 
 #### 🛠 Tech Blueprint:
-- Frontend: Next.js 14 (App Router, SSR, ISR) for ultimate speed.
-- Backend: Strapi CMS (Headless Architecture) for flexible data management.
-- Integration: Automated API pipelines for content generation.
-- Optimization: Advanced Schema Markup & Core Web Vitals optimization.
+- **Frontend:** High-performance, responsive user interface.
+- **Backend:** Robust and flexible headless architecture for data management.
+- **Integration:** Automated API pipelines for content generation.
+- **Optimization:** Advanced database design and web performance optimization.
 
 ---
-
 
 ### 💻 Proficiency & Technical Skills:
 | Language/Framework | Level |
@@ -49,6 +52,7 @@
 
 ### 🧑‍💻 Tech I Work On:
 <p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,rust,js,php,laravel,py,html,css,tailwind,wordpress,aws,githubactions,docker" />
   </a>
 </p>
