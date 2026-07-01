@@ -1,4 +1,4 @@
-# Hi there! <img src="https://gist.githubusercontent.com/musama619/eb3b00f5a85880bfaa7416d7916d61c5/raw/a9786f37062f2d0ed2dc724823aa66eed8ce883f/hi.gif" width="70" />
+# Hi there! <img src="https://gist.github.com/musama619/eb3b00f5a85880bfaa7416d7916d61c5/raw/a9786f37062f2d0ed2dc724823aa66eed8ce883f/hi.gif" width="70" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marouan-eerachdi-b40842197/" target="_blank">
