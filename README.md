@@ -32,7 +32,7 @@
 ### 💻 Proficiency & Technical Skills:
 | Language/Framework | Level |
 | :--- | :--- |
-| Next.js | 80% |
+| Next.j | 80% |
 | HTML / CSS | 80% |
 | JavaScript | 40% |
 | PHP / Laravel | 40% |
